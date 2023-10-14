@@ -1,5 +1,5 @@
 // Array of 18 names
-const names = ["Dy", "Ekoh", "Samson", "Isaac", "Ego", "Dolapo", "Pelumi", "Natachie", "Samuel", "Paul-Joseph", "Rahman", "Mars", "Damola", "Mitong", "Joshua", "James", "Biliqis", "Tola"];
+const names = ["Ego", "Dolapo", "Biliqis", "Tola", "Dy", "Ekoh", "Samson", "Isaac", "Pelumi", "Natachie", "Samuel", "Paul-Joseph", "Rahman", "Mars", "Damola", "Mitong", "Joshua", "James"];
 
 // Function to shuffle an array using Fisher-Yates algorithm
 function shuffleArray(array) {
